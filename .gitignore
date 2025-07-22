@@ -1,0 +1,96 @@
+# Built application files
+*.apk
+*.ap_
+*.aab
+*.aar
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+/build
+.gradle
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/codeStyles
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/vcs.xml
+.idea/compiler.xml
+
+# Local configuration file (sdk location, etc)
+local.properties
+.DS_Store
+/.idea/shelf
+
+# Crashlytics/Fabric
+crashlytics-build.properties
+fabric.properties
+
+# NDK/JNI
+*.so
+.externalNativeBuild
+
+# Android Studio navigation editor.
+.navigation/
+
+# Room persistence library
+*.db
+*.db-journal
+*.sqlite
+*.sqlite-journal
+
+# Keystore files
+*.jks
+*.keystore
+
+# Gradle
+.gradle/
+gradle-wrapper.jar
+!gradle-wrapper.jar.properties # Keep this specific property file if needed
+
+# Kotlin
+*.kotlin_module
+*.kapt_generated
+.kotlin_gradle
+.gradle-tooling-api
+.kotlin
+
+# IntelliJ IDEA (Android Studio is based on it)
+*.iml
+.idea/
+# If using Android Studio Chipmunk and later
+.idea/gradle.xml
+.idea/jarRepositories.xml
+.idea/libraries
+.idea/misc.xml
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/render.xml
+.idea/vcs.xml
+.idea/workspace.xml
+
+# Local test results
+/test_results
+
+# Android specific
+/captures
+/lint-results.html
+/lint-results.xml
+/profiler
+/tmp
+
+# External dependencies
+/external
+
+# Misc
+*.log
+*.bin
+.idea/
